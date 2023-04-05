@@ -1,6 +1,6 @@
-node_modules
+node_modules/
 cypress.env.json
-\cypress\videos
-/cypress/screenshots
-cypress/1-getting-started
-cypress/2-advanced-examples
+/cypress/videos
+cypress/screenshots/
+cypress/e2e/1-getting-started/
+cypress/e2e/2-advanced-examples/
